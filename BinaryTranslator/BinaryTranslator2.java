@@ -1,6 +1,6 @@
-//TRADUTTORE DA TESTO A CODICE BINARIO
-//Formato di input, esempio: ciaodwanves
-//File .txt da cui importare i valori: binary_text.txt
+//TRANSLATOR from text to binary code
+//Input format, example: ciaodwanves
+//txt file with ASCII inforamtions to import: binary_text.txt
 
 import java.util.Scanner;
 import java.io.FileReader;
@@ -27,37 +27,37 @@ public class BinaryTranslator2
 	}
 }
 
-//DIZIONARIO con coppie (carattere ascii, codice binario)
+//DICTIONARY with Pairs(character, binary code)
 class Dictionary2
 {
-	Pair[] pair = new Pair[27];		//array contenente le coppie
-	int index = 0;					//indice per il riempimento dell'array
+	Pair[] pair = new Pair[27];			//array with pairs
+	int index = 0;					//index
 
-	//Metodo che restituisce il codice binario, in base al testo inserito
+	//Method that returns the binary code, based on the characters in input
 	public String searchBin(String s)
 	{
 		String retValue = "";
-		for(int i=0; i<pair.length; i++)		//semplice ricerca lineare
+		for(int i=0; i<pair.length; i++)		//Linear search
 		{
 			if(pair[i].getText().equals(s))
-				retValue = pair[i].getBin(); 	//restituzione del codice binario
+				retValue = pair[i].getBin(); 	//return binary code
 		}
 		return retValue;
 	}
 
-	//Metodo per l'inserimento delle coppie (carattere, codice binario)
+	//Insertion method for Pairs
 	private void insertPairs(Pair p)
 	{
 		pair[index] = p;
 		index++;
 	}
 
-	//metodo per riempire il dizionario con le coppie (carattere, binario) dalle informazioni contenute nel file di testo
+	//Fill dictionary from the txt file
 	public void fillDictionary() throws FileNotFoundException
 	{
-		insertPairs(new Pair(" ", "00100000"));	//inserimento manuale dello spazio
+		insertPairs(new Pair(" ", "00100000"));	
 		
-		FileReader fr = new FileReader("binary_text.txt");	//lettura file di testo
+		FileReader fr = new FileReader("binary_text.txt");	//reading txt file
 		BufferedReader bf = new BufferedReader(fr);
 		String st = "";
 		
@@ -66,18 +66,18 @@ class Dictionary2
 			while((st = bf.readLine())!= null)
 			{
 				Scanner tk = new Scanner(st);			//Scanner token
-				String ascii = tk.next();				//carattere
-				String zerouno = tk.next();				//codice binario
-				insertPairs(new Pair(ascii, zerouno));	//inserimento nel dizionario
+				String ascii = tk.next();				//character
+				String zerouno = tk.next();				//binary code
+				insertPairs(new Pair(ascii, zerouno));	//insertion in dictionary
 			}
 		} catch(IOException ioe) {}
 	}
 
-	//CLASSE che realizza le coppie (carattere, codice binario)
+	//Pair CLASS
 	private class Pair
 	{
-		String text;	//carattere
-		String bin;		//codice binario
+		String text;		//character
+		String bin;		//binary code
 
 		private Pair(String sText, String sBin)
 		{
