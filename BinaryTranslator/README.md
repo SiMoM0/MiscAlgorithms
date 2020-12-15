@@ -1,6 +1,6 @@
 # Binary Translator
 
-These files convert binary code to text and the opposite. The algorithms read the ASCII information from the txt file, which contains all the pairs binary-character.(*File is updating*) 
+These files convert binary code to text and viceversa. The algorithms read the ASCII information from the txt file, which contains all the pairs binary-character.(*File binary_text.txt is updating*) 
 
 ## BinaryTranslator
 
