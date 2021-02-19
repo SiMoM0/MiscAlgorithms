@@ -6,7 +6,7 @@ Collections of various algorithms
 This repository contains lots of different algorithms, each one for a different use.
 Every code has a short description about its goal and behaviour.
 
-Below there's a list of all the algorithms and theri goals.
+Below there's a list of all the algorithms and their goals.
 
 (ITA)
 
@@ -22,8 +22,16 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 
 [Fibonacci Number](https://github.com/SiMoM0/Miscellaneous/tree/main/FibonacciNumber): find the 'n' number of the Fibonacci sequence.
 
+[Fibonacci Sequence](https://github.com/SiMoM0/Miscellaneous/tree/main/FibonacciSequence): print the first 'n' numbers of the Fibonacci sequence.
+
+[Password Validator](https://github.com/SiMoM0/Miscellaneous/tree/main/PasswordValidator): check if the input string is a good and strong password.
+
 [Prime Factorization](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeFactorization): break down an integer number into his primes.
 
 [Prime Factorization (Advanced)](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeFactorization_Advance): a prime factorization algorithm with better infos about the process.
+
+[Prime Number Finder](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeNumberFinder): check if a number is prime or not.
+
+[Prime Number Sequence](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeNumberSequence): lists all the firsts 'n' prime numbers.
 
 [Second Grade Equation Solver](https://github.com/SiMoM0/Miscellaneous/tree/main/SecondGradeEquation): solve a second grade equation.
