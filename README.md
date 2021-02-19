@@ -24,6 +24,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 
 [Fibonacci Sequence](https://github.com/SiMoM0/Miscellaneous/tree/main/FibonacciSequence): print the first 'n' numbers of the Fibonacci sequence.
 
+[Password Generator](https://github.com/SiMoM0/Miscellaneous/tree/main/PasswordGenerator): generate a random strong password.
+
 [Password Validator](https://github.com/SiMoM0/Miscellaneous/tree/main/PasswordValidator): check if the input string is a good and strong password.
 
 [Prime Factorization](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeFactorization): break down an integer number into his primes.
