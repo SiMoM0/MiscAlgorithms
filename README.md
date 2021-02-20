@@ -41,3 +41,5 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 [Prime Number Sequence](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeNumberSequence): lists all the firsts 'n' prime numbers.
 
 [Second Grade Equation Solver](https://github.com/SiMoM0/Miscellaneous/tree/main/SecondGradeEquation): solve a second grade equation.
+
+[Shift Encrypter](https://github.com/SiMoM0/Miscellaneous/tree/main/ShiftEncrypter): a simple encrypter/decrypter which shift all the characters by a given number.
