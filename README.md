@@ -1,5 +1,5 @@
 # Collection of algorithms
-Collections of various algorithms
+Collections of various algorithms for different uses.
 
 (EN)
 
