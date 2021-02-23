@@ -12,9 +12,9 @@ da quella che si trova ad un certo numero di posizione successive/precedenti nel
 
 Questo algoritmo esegue uno shift destro se la chiave è un numero intero positivo, shift sinistro se invece il numero inserito è negativo.
 
+<br/>
 
-
-Example:
+#### Example:
 
 Plaintext: abcdefgh
 
