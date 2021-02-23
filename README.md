@@ -20,6 +20,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 ### Algorithms List
 [Anagrams](https://github.com/SiMoM0/Miscellaneous/tree/main/Anagrams): a simple code which find all the anagrams of a word.
 
+[Atbash Cipher](https://github.com/SiMoM0/MiscAlgorithms/tree/main/AtbashCipher): implementation of the Atbash Cipher (reverse aplhabet).
+
 [Binary Converter](https://github.com/SiMoM0/Miscellaneous/tree/main/BinaryConverter): convert decimal number to binary code and the opposite.
 
 [Binary Translator](https://github.com/SiMoM0/Miscellaneous/tree/main/BinaryTranslator): convert binary code to text and the opposite.
