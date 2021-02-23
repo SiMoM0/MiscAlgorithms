@@ -15,6 +15,8 @@ Ogni codice è affiancato da una breve descrizione e dal problema che risolve.
 
 Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funzione.
 
+<br/>
+
 ### Algorithms List
 [Anagrams](https://github.com/SiMoM0/Miscellaneous/tree/main/Anagrams): a simple code which find all the anagrams of a word.
 
