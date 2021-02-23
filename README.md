@@ -22,6 +22,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 
 [Binary Translator](https://github.com/SiMoM0/Miscellaneous/tree/main/BinaryTranslator): convert binary code to text and the opposite.
 
+[Caesar Cipher](https://github.com/SiMoM0/MiscAlgorithms/tree/main/CaesarCipher): implementation of the simple encryption technique 'Caesar Cipher'.
+
 [Concrete Model](https://github.com/SiMoM0/Miscellaneous/tree/main/ConcreteModel): a simple example of a concrete model in Linear Programming (LP).
 
 [Fibonacci Number](https://github.com/SiMoM0/Miscellaneous/tree/main/FibonacciNumber): find the 'n' number of the Fibonacci sequence.
@@ -41,6 +43,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 [Prime Number Finder](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeNumberFinder): check if a number is prime or not.
 
 [Prime Number Sequence](https://github.com/SiMoM0/Miscellaneous/tree/main/PrimeNumberSequence): lists all the firsts 'n' prime numbers.
+
+[ROT 13](https://github.com/SiMoM0/MiscAlgorithms/tree/main/ROT13): implementation of the ROT 13, a special case of the Caesar Cipher.
 
 [Second Grade Equation Solver](https://github.com/SiMoM0/Miscellaneous/tree/main/SecondGradeEquation): solve a second grade equation.
 
