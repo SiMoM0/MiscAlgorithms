@@ -24,6 +24,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 
 [Binary Converter](https://github.com/SiMoM0/Miscellaneous/tree/main/BinaryConverter): convert decimal number to binary code and the opposite.
 
+[Binary To Hex](https://github.com/SiMoM0/MiscAlgorithms/tree/main/BinaryToHex): convert binary code to hexadecimal and the decimal number.
+
 [Binary Translator](https://github.com/SiMoM0/Miscellaneous/tree/main/BinaryTranslator): convert binary code to text and the opposite.
 
 [Caesar Cipher](https://github.com/SiMoM0/MiscAlgorithms/tree/main/CaesarCipher): implementation of the simple encryption technique 'Caesar Cipher'.
