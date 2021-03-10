@@ -18,6 +18,8 @@ Di seguito è presente una lista con tutti gli agloritmi presenti e la loro funz
 <br/>
 
 ### Algorithms List
+[Alphabet Ecnrypter](https://github.com/SiMoM0/MiscAlgorithms/tree/main/AlphabetEncrypter): convert a message, from an alphabet to another one.
+
 [Anagrams](https://github.com/SiMoM0/Miscellaneous/tree/main/Anagrams): a simple code which find all the anagrams of a word.
 
 [Atbash Cipher](https://github.com/SiMoM0/MiscAlgorithms/tree/main/AtbashCipher): implementation of the Atbash Cipher (reverse aplhabet).
